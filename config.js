@@ -5,7 +5,7 @@
 ██║███╗██║██║██║     ██╔═██╗     ╚════██║   ██║   ██║   ██║██║  ██║██║██║   ██║
 ╚███╔███╔╝██║╚██████╗██║  ██╗    ███████║   ██║   ╚██████╔╝██████╔╝██║╚██████╔╝
  ╚══╝╚══╝ ╚═╝ ╚═════╝╚═╝  ╚═╝    ╚══════╝   ╚═╝    ╚═════╝ ╚═════╝ ╚═╝ ╚═════╝ 
-Copyright (c) 2025 Wick Studio | discord.gg/wicks
+Copyright (c) 2025 ASTRA DEV | MEMBERS : n0scape
 */
 
 module.exports = {
@@ -22,3 +22,4 @@ module.exports = {
   gifQuality: 10, // GIF quality (1-30)
   frameDelay: 100, // Delay between frames in ms
 };
+
